@@ -1,0 +1,5 @@
+com\example\weatherapp\service\WeatherConditionInterpreterTest.class
+com\example\weatherapp\service\WeatherServiceTest$1.class
+com\example\weatherapp\service\WeatherServiceTest$StubOpenMeteoClient.class
+com\example\weatherapp\service\WeatherResultFormatterTest.class
+com\example\weatherapp\service\WeatherServiceTest.class

@@ -1,0 +1,15 @@
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\App.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\client\OpenMeteoClient.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\model\GeocodingResponse.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\model\WeatherResponse.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\service\DailyForecastEntry.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\service\WeatherCache.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\service\WeatherCondition.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\service\WeatherConditionInterpreter.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\service\WeatherResult.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\service\WeatherResultFormatter.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\service\WeatherService.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\service\WeatherVisualType.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\ui\WeatherAppFrame.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\ui\WeatherGradientPanel.java
+C:\EDF\generation\weather-app\src\main\java\com\example\weatherapp\ui\WeatherIconFactory.java

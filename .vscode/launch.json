@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Weather App",
+      "request": "launch",
+      "mainClass": "com.example.weatherapp.App",
+      "projectName": "weather-app",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Weather App CLI",
+      "request": "launch",
+      "mainClass": "com.example.weatherapp.App",
+      "projectName": "weather-app",
+      "args": "--cli",
+      "console": "integratedTerminal"
+    }
+  ]
+}
